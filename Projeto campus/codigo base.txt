@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SeniorVox - Tecnologia que Protege, Conecta e Cuida</title>
+   <link rel="stylesheet" href="../styles/header.css">
+    <link rel="stylesheet" href="../styles/body.css">
+    <link rel="stylesheet" href="../styles/footer.css">
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-content">
+            <div class="logo"><a href="../HTML/SeniorVox.html">
+                <img src="../images/image-removebg-preview.png">
+                SeniorVox</a>
+            </div>
+            <nav>
+                <a href="../HTML/SeniorVox.html#about">Sobre</a>
+                <a href="../HTML/SeniorVox.html#watch">Relógio</a>
+                <a href="../HTML/SeniorVox.html#glass">Óculos</a>
+                <a href="../HTML/SeniorVox.html#why-different">Por que</a>
+                <a href="../HTML/SeniorVox.html#testimonials">Histórias</a>
+            </nav>
+        </div>
+    </header>
+
+
+</body>
+</html>
